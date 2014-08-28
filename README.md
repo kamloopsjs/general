@@ -1,3 +1,8 @@
+Discussions
+===========
+
+Have a question? Just start an issue to discuss it!
+
 Kamloops.js talks proposals
 ===========================
 
