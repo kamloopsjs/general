@@ -1,13 +1,18 @@
-Discussions
-===========
+The kamloops.js general repo
+============================
 
-Have a question? Just start an issue to discuss it!
+This repository is the home of basically everything kamloops.js. Have a question? 
+Go have a look at the [issues](https://github.com/kamloopsjs/general/issues).
+
+Want to do a talk? Fork this repository and pull request your talk!
+
 
 Kamloops.js talks proposals
-===========================
+---------------------------
 
-This is a repository to propose talks for a future Kamloops.js meet, 
-just issue a PR adding a new file to the `talks` directory. It should
+We are more than welcoming of people who want to do a talk on any
+javascript related topic (even loosly related). Once you have a talk in mind
+just issue a pull request adding a new file to the `talks` directory. It should
 look like this:
 
 `2014-01-31-jonotron-my-awesome-talk.md` 
@@ -29,8 +34,7 @@ learn from your talk.
 * It can also contain lists
 * or not
 
-Other bits
-----------
+### Other bits
 
 If you have any other things you want to include, like images or files, 
 just include a directory with the same name as your talk and stick them
