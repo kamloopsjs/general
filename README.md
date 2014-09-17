@@ -15,8 +15,8 @@ javascript related topic (even loosly related). Once you have a talk in mind
 just issue a pull request adding a new file to the `talks` directory. It should
 look like this:
 
-`2014-01-31-jonotron-my-awesome-talk.md` 
-(ISO Date, github username or twitter handle, talk title)
+`jonotron-my-awesome-talk.md` 
+(github username or twitter handle, talk title)
 
 And should have the format:
 
