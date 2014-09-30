@@ -1,4 +1,4 @@
-talks
-=====
+Kamloops.js
+===========
 
-Proposed talks for Kamloops.js meets
+The static site for kamloops.js
