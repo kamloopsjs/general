@@ -1,3 +1,5 @@
+Mailing list: http://eepurl.com/bMWZpP
+
 The kamloops.js general repo
 ============================
 
